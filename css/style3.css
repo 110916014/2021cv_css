@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/d9/bb/75/d9bb75dce99590817108a2ac665a12b1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 80% 80%;
+}
+
+h2{
+    color: turquoise;
+    font-size: 40px;
+}
+
+p{
+    color: rgb(160, 40, 40);  
+    font-size:20px; 
+    font-weight: bolder; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color: rgb(160, 40, 40);  
+    font-size:20px; 
+    font-weight: 900; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
